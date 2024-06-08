@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/next-js": "2.2.0",
+    "@chakra-ui/react": "2.8.2",
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.5",
+    "framer-motion": "11.2.10",
+    "next": "canary",
+    "react": "19.0.0-rc-6f23540c7d-20240528",
+    "react-dom": "19.0.0-rc-6f23540c7d-20240528"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.12",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.3.3"
+  }
+}
