@@ -12,8 +12,8 @@
     "@emotion/styled": "11.11.5",
     "framer-motion": "11.2.10",
     "next": "canary",
-    "react": "19.0.0-rc-6f23540c7d-20240528",
-    "react-dom": "19.0.0-rc-6f23540c7d-20240528"
+    "react": "rc",
+    "react-dom": "rc"
   },
   "devDependencies": {
     "@types/node": "20.12.12",
